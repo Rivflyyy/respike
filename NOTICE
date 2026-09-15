@@ -1,0 +1,7 @@
+ReSpike core projection reparameterization
+
+This partial release adapts the inference projection from the ReSpike research
+implementation. The conversion has been separated from the full model and its
+neuron dependencies, exposed through a standalone API, and accompanied by
+synthetic examples and tests. The complete implementation will be released
+after acceptance.
